@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "random": "cpp",
+        "filesystem": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
