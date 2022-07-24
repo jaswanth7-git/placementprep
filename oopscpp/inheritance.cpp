@@ -38,5 +38,7 @@ int main(){
     // a.id = 12;
     // cout<<a;
     //this wont wrok
+
+    //take a look at acces modifiers table 
 return 0;
 }
